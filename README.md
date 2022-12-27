@@ -1,9 +1,17 @@
 # Duck Hunt 
-![alt text](./pictures/duckhunt.png#center)
 
 <p align="center">
   <img src="./pictures/duckhunt.png#center" />
 </p>
 <br /> 
 
-This is a verilog modified build for the old retro game relased in 1984.
+This project implement the duck hunt game, which is an old retro game that was
+released by Nintendo in 1984 for Nintendo Entertainment System (NES). The game is implemented
+from scratch on Nexys-A7 FPGA board but with some additional features that were not in the game. Also, some features of the
+game were removed to accommodate the FPGA available resources.
+
+
+# Game Video 
+To see a video for the game:
+https://www.youtube.com/watch?v=sASPFaQYpdo
+
