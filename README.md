@@ -15,3 +15,7 @@ game were removed to accommodate the FPGA available resources.
 To see a video for the game:
 https://www.youtube.com/watch?v=sASPFaQYpdo
 
+# Developers
+The game was designed as a part course project in a team of two. 
+* Ali Alhejab  (https://github.com/ms802x)
+* Abdurauf Abdurakhmanov (https://github.com/abdurauf-neo)
